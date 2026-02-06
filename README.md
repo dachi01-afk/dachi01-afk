@@ -96,7 +96,7 @@ I believe that great backend systems are built on strong system understanding an
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dachi01-afk&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=dachi01-afk&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" /> -->
 </p>
 
 <p align="center">
@@ -104,12 +104,12 @@ I believe that great backend systems are built on strong system understanding an
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dachi01-afk&theme=onedark&hide_border=true&layout=compact&include_all_commits=true&count_private=true" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dachi01-afk&theme=onedark&hide_border=true&layout=compact&include_all_commits=true&count_private=true" /> -->
 </p>
 
 ---
 
-<h2 align="center">🔝 Top Contributed Repositories</h2>
+<h2 align="center">🔝 Top Contributed Repositories </h2>
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=dachi01-afk&limit=5&theme=github_dark&combine_all_yearly_contributions=true" />
@@ -118,7 +118,7 @@ I believe that great backend systems are built on strong system understanding an
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=dachi01-afk&icon=4&color=38BDF8" />
+  <!-- <img src="https://visitcount.itsvg.in/api?id=dachi01-afk&icon=4&color=38BDF8" /> -->
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
