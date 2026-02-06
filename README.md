@@ -1,5 +1,37 @@
-# 💫 About Me:
-# Backend Development Enthusiast | Informatics Engineering Student<br><br>I am a final-year Informatics Engineering student who is currently <br>focusing on learning and growing in the field of **Backend Development**.<br><br>My journey into backend development started with building web applications <br>using PHP and frameworks such as CodeIgniter and Laravel. Through these experiences, <br>I gained a foundational understanding of data management, authentication, <br>and how business logic is implemented within a system.<br><br>In addition to development, I have experience as a <br>**QC and Documentation Officer**, where I was involved in analyzing application flows, <br>performing testing, and creating technical documentation. <br>This experience shaped my perspective on backend development — not just as writing code, <br>but as building a stable, well-tested, and maintainable system foundation.<br><br>At the moment, I am continuously strengthening my backend knowledge with a focus on:<br>- Backend structure and application architecture<br>- Database management and data relationships<br>- APIs and system integration<br>- Testing and technical documentation<br><br>I am open to and interested in **collaborating on various projects**, <br>learning together, and sharing knowledge. <br>I believe that great backend systems are built on strong system understanding <br>and consistent learning.<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=Backend+Development+Enthusiast;Building+Reliable+Backend+Systems;Learning+Architecture%2C+APIs%2C+and+Databases;Open+to+Collaboration+and+Growth" />
+</p>
+
+
+
+
+
+---
+
+### Backend Development Enthusiast | Informatics Engineering Student
+
+I am a final-year Informatics Engineering student who is currently focused on learning and growing in the field of **Backend Development**.
+
+My journey into backend development began with building web applications using **PHP**, primarily with **CodeIgniter** and **Laravel**. Through these projects, I gained a foundational understanding of database management, authentication, and how business logic is implemented within a system.
+
+In addition to development, I have experience as a **QC and Documentation Officer**, where I analyzed application flows, performed testing, and created technical documentation. This experience shaped my perspective on backend development — not just writing code, but building **stable, well-tested, and maintainable system foundations**.
+
+Currently, I am strengthening my backend knowledge with a focus on:
+- Backend structure and application architecture  
+- Database management and data relationships  
+- API development and system integration  
+- Testing and technical documentation  
+
+I am open to **collaborating on various projects**, learning together, and sharing knowledge.  
+I believe that great backend systems are built on strong system understanding and consistent learning.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/wave?color=E0E0E0&height=80&section=footer"/>
+</p>
+
 
 
 ## 🌐 Socials:
@@ -12,10 +44,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=dachi01-afk&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dachi01-afk&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dachi01-afk&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dachi01-afk&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dachi01-afk&icon=4&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
