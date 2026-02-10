@@ -11,7 +11,7 @@
 
 
 
-
+<!-- portfolio:desc -->
 I am a final-year Informatics Engineering student who is currently focused on learning and growing in the field of **Backend Development**.
 
 My journey into backend development began with building web applications using **PHP**, primarily with **CodeIgniter** and **Laravel**. Through these projects, I gained a foundational understanding of database management, authentication, and how business logic is implemented within a system.
@@ -26,7 +26,7 @@ Currently, I am strengthening my backend knowledge with a focus on:
 
 I am open to **collaborating on various projects**, learning together, and sharing knowledge.  
 I believe that great backend systems are built on strong system understanding and consistent learning.
-
+<!-- portfolio:desc:end -->
 ---
 
 
