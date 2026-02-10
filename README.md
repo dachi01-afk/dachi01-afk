@@ -16,7 +16,7 @@ I am a final-year Informatics Engineering student who is currently focused on le
 
 My journey into backend development began with building web applications using **PHP**, primarily with **CodeIgniter** and **Laravel**. Through these projects, I gained a foundational understanding of database management, authentication, and how business logic is implemented within a system.
 
-In addition to development, I have experience as a **QC and Documentation Officer**, where I analyzed application flows, performed testing, and created technical documentation. This experience shaped my perspective on backend development — not just writing code, but building **stable, well-tested, and maintainable system foundations**.
+In addition to development, I have experience as a **QC and Documentation Officer**, where I analyzed application flows, performed testing, and created technical documentation. This experience shaped my perspective on backend development not just writing code, but building **stable, well-tested, and maintainable system foundations**.
 
 Currently, I am strengthening my backend knowledge with a focus on:
 - Backend structure and application architecture  
